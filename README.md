@@ -46,4 +46,6 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-❤️ Created by [Mitch Koko](https://youtube.com/mitchkoko)
+❤️ Created by nico
+
+
