@@ -12,6 +12,7 @@ class MyDrawer extends StatelessWidget {
   void logout(BuildContext context) {
     final authCubit = context.read<AuthCubit>();
     authCubit.logout();
+    
   }
 
   // confirm logout
@@ -117,3 +118,4 @@ class MyDrawer extends StatelessWidget {
     );
   }
 }
+
